@@ -1,9 +1,10 @@
-# Reference
-- [Project details](https://www.confluent.io/en-gb/blog/event-driven-microservices-with-python-and-kafka/?session_ref=https://docs.confluent.io/&_gl=1*16rmq2t*_ga*Mzc4OTUwMTU2LjE3MDI4MDgyNzc.*_ga_D2D3EGKSGD*MTcwMjgxMTY4MC4yLjEuMTcwMjgxMjAxMi4zNC4wLjA.&_ga=2.217881554.593537590.1702808277-378950156.1702808277)
-- [Source code](https://github.com/confluentinc/demo-scene/tree/master/python-microservices)
 
 # Random Pizza Generator
 an event-driven microservices demo with Python and Kafka
+
+## Reference
+- [Project details](https://www.confluent.io/en-gb/blog/event-driven-microservices-with-python-and-kafka/?session_ref=https://docs.confluent.io/&_gl=1*16rmq2t*_ga*Mzc4OTUwMTU2LjE3MDI4MDgyNzc.*_ga_D2D3EGKSGD*MTcwMjgxMTY4MC4yLjEuMTcwMjgxMjAxMi4zNC4wLjA.&_ga=2.217881554.593537590.1702808277-378950156.1702808277)
+- [Source code](https://github.com/confluentinc/demo-scene/tree/master/python-microservices)
 
 ## Description
 
